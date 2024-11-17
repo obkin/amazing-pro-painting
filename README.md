@@ -4,12 +4,12 @@ This project consists of two parts: the frontend and the backend, working togeth
 
 ## Repository Structure
 
-amazing-pro-painting/
-├── frontend/       # Frontend logic and code (React, TailWind)
-├── backend/        # Backend logic and code (NestJS, Express)
-├── .gitignore      # Files and folders to be excluded from Git
-├── README.md       # Project description
-└── .env.example    # Example configuration file
+amazing-pro-painting:
+1) frontend/       # Frontend logic and code (React, TailWind)
+2) backend/        # Backend logic and code (NestJS, Express)
+3) .gitignore      # Files and folders to be excluded from Git
+4) README.md       # Project description
+5) .env.example    # Example configuration file
 
 ## Setup Instructions
 
