@@ -15,9 +15,7 @@ const HomePage: React.FC = () => {
             <div className="email">info@amazingpropainting.com</div>
       </div>
 
-      {/* Головний контент */}
       <div className="main-content">
-        {/* Верхнє меню */}
         <header className="header">
           <nav className="nav">
             <a href="#">About us</a>
@@ -28,7 +26,6 @@ const HomePage: React.FC = () => {
           <div className="contact">📞 732-421-3080</div>
         </header>
 
-        {/* Основна секція */}
         <div className="hero">
           <div className="hero-text">
             <h1 className="title">Amazing Pro Painting</h1>
